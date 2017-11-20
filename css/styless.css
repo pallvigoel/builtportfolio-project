@@ -1,0 +1,21 @@
+h6 {
+	text-align: center;
+}
+
+h1 {
+	text-shadow: 1px 1px 8px blue;
+}
+
+h3{
+	text-align: justify;
+}
+
+.container {
+	padding: 10px;
+	margin: auto;
+        display: block;
+}
+
+body {
+	margin: auto;
+}
